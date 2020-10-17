@@ -1,6 +1,9 @@
 # note-taking-app
 command base note taking app
 
+core node package : fs
+npm packages : yargs, chalk
+
 commands = add, remove, list, read.
 
 usage :
